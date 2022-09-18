@@ -59,5 +59,9 @@ body {
     box-sizing: border-box;
     font-weight: 400;
     font-size: 80%;
+    display: block;
+    margin: auto;
+    padding: auto;
+    
   }
   
